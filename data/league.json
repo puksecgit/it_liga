@@ -1,0 +1,2110 @@
+{
+  "season": "2026/27",
+  "teams": [
+    {
+      "rank": 1,
+      "name": "SkySoft",
+      "played": 5,
+      "won": 5,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 34,
+      "goalsAgainst": 7,
+      "goalDifference": 27,
+      "points": 15,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "venue": "Popovac, utorak, 22h",
+      "kit": "Belo-plavi, crno-zeleni",
+      "captain": "Andrija Denić",
+      "postponed": 0,
+      "adjustment": 0
+    },
+    {
+      "rank": 2,
+      "name": "Better Collective",
+      "played": 5,
+      "won": 4,
+      "drawn": 1,
+      "lost": 0,
+      "goalsFor": 24,
+      "goalsAgainst": 7,
+      "goalDifference": 17,
+      "points": 13,
+      "form": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "venue": "Dugi Arena (N.Banja), utorak, 19h",
+      "kit": "Zelena",
+      "captain": "Milos Cirkovic",
+      "postponed": 0,
+      "adjustment": 0
+    },
+    {
+      "rank": 3,
+      "name": "Boopro",
+      "played": 4,
+      "won": 4,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 32,
+      "goalsAgainst": 12,
+      "goalDifference": 20,
+      "points": 12,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "venue": "Popovac, ponedeljak, 22h",
+      "kit": "Dve garniture. Beli i Plavi",
+      "captain": "Dusan Ilic",
+      "postponed": 0,
+      "adjustment": 0
+    },
+    {
+      "rank": 4,
+      "name": "Fazi",
+      "played": 5,
+      "won": 3,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 28,
+      "goalsAgainst": 18,
+      "goalDifference": 10,
+      "points": 9,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "venue": "Elektronska, ponedeljak, 21h",
+      "kit": "Crni i beli",
+      "captain": "Nemanja Nikodijevic",
+      "postponed": 0,
+      "adjustment": 0
+    },
+    {
+      "rank": 5,
+      "name": "HTEC",
+      "played": 3,
+      "won": 2,
+      "drawn": 1,
+      "lost": 0,
+      "goalsFor": 15,
+      "goalsAgainst": 6,
+      "goalDifference": 9,
+      "points": 7,
+      "form": [
+        "W",
+        "D",
+        "W"
+      ],
+      "venue": "Elektronska, četvrtak 21h",
+      "kit": "Zeleni",
+      "captain": "Stefan Petkovic",
+      "postponed": 0,
+      "adjustment": 0
+    },
+    {
+      "rank": 6,
+      "name": "Ascalab",
+      "played": 3,
+      "won": 2,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 19,
+      "goalsAgainst": 7,
+      "goalDifference": 12,
+      "points": 6,
+      "form": [
+        "L",
+        "W",
+        "W"
+      ],
+      "venue": "Vrežina, ponedeljak, 18h",
+      "kit": "Crno-narandžasti i Žuto-beli",
+      "captain": "Đorđe Đurđević",
+      "postponed": 0,
+      "adjustment": 0
+    },
+    {
+      "rank": 7,
+      "name": "Code",
+      "played": 4,
+      "won": 2,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 16,
+      "goalsAgainst": 15,
+      "goalDifference": 1,
+      "points": 6,
+      "form": [
+        "W",
+        "W",
+        "L",
+        "L"
+      ],
+      "venue": "Elektronska, sreda 19h",
+      "kit": "Plave",
+      "captain": "Milan Stanisavljevic",
+      "postponed": 1,
+      "adjustment": 0
+    },
+    {
+      "rank": 8,
+      "name": "Diligent",
+      "played": 4,
+      "won": 1,
+      "drawn": 0,
+      "lost": 3,
+      "goalsFor": 6,
+      "goalsAgainst": 19,
+      "goalDifference": -13,
+      "points": 3,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "venue": "Elektronska, utorak 21h",
+      "kit": "Crne",
+      "captain": "Darko Pavlovic",
+      "postponed": 0,
+      "adjustment": 0
+    },
+    {
+      "rank": 9,
+      "name": "OIP Insurtech",
+      "played": 3,
+      "won": 0,
+      "drawn": 0,
+      "lost": 3,
+      "goalsFor": 3,
+      "goalsAgainst": 12,
+      "goalDifference": -9,
+      "points": 0,
+      "form": [
+        "L",
+        "L",
+        "L"
+      ],
+      "venue": "Elektronska, sreda 22h",
+      "kit": "Bele sa plavim motivima. Rezervne Teget.",
+      "captain": "Vojislav Janković",
+      "postponed": 1,
+      "adjustment": 0
+    },
+    {
+      "rank": 10,
+      "name": "Dualsoft",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 4,
+      "goalsFor": 6,
+      "goalsAgainst": 21,
+      "goalDifference": -15,
+      "points": 0,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "venue": "Dugi Arena (N.Banja), utorak, 19h",
+      "kit": "Plave boje",
+      "captain": "Damjan Jović",
+      "postponed": 0,
+      "adjustment": 0
+    },
+    {
+      "rank": 11,
+      "name": "DMV",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 4,
+      "goalsFor": 7,
+      "goalsAgainst": 36,
+      "goalDifference": -29,
+      "points": 0,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "venue": "Bubanj, sreda, 21h",
+      "kit": "Crvene",
+      "captain": "Janko Petković",
+      "postponed": 1,
+      "adjustment": 0
+    },
+    {
+      "rank": 12,
+      "name": "Logik",
+      "played": 4,
+      "won": 0,
+      "drawn": 0,
+      "lost": 4,
+      "goalsFor": 9,
+      "goalsAgainst": 39,
+      "goalDifference": -30,
+      "points": 0,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "venue": "Vrežina, utorak, 19h",
+      "kit": "Plavo - beli",
+      "captain": "Nikola Radosavljević",
+      "postponed": 1,
+      "adjustment": 0
+    }
+  ],
+  "matches": [
+    {
+      "id": "r1-20",
+      "round": 1,
+      "home": "Code",
+      "away": "OIP Insurtech",
+      "homeScore": 3,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": "r1-21",
+      "round": 1,
+      "home": "SkySoft",
+      "away": "Diligent",
+      "homeScore": 6,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": "r1-22",
+      "round": 1,
+      "home": "DMV",
+      "away": "Fazi",
+      "homeScore": 3,
+      "awayScore": 14,
+      "status": "finished"
+    },
+    {
+      "id": "r1-23",
+      "round": 1,
+      "home": "Better Collective",
+      "away": "Logik",
+      "homeScore": 9,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": "r1-24",
+      "round": 1,
+      "home": "HTEC",
+      "away": "Ascalab",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r1-25",
+      "round": 1,
+      "home": "Boopro",
+      "away": "Dualsoft",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": "r2-26",
+      "round": 2,
+      "home": "Ascalab",
+      "away": "Boopro",
+      "homeScore": 3,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": "r2-27",
+      "round": 2,
+      "home": "HTEC",
+      "away": "Logik",
+      "homeScore": 8,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": "r2-28",
+      "round": 2,
+      "home": "Code",
+      "away": "Dualsoft",
+      "homeScore": 6,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": "r2-29",
+      "round": 2,
+      "home": "Diligent",
+      "away": "DMV",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": "r2-30",
+      "round": 2,
+      "home": "Better Collective",
+      "away": "Fazi",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": "r2-31",
+      "round": 2,
+      "home": "OIP Insurtech",
+      "away": "SkySoft",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": "r3-32",
+      "round": 3,
+      "home": "SkySoft",
+      "away": "DMV",
+      "homeScore": 15,
+      "awayScore": 2,
+      "status": "finished"
+    },
+    {
+      "id": "r3-33",
+      "round": 3,
+      "home": "Dualsoft",
+      "away": "OIP Insurtech",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r3-34",
+      "round": 3,
+      "home": "Logik",
+      "away": "Ascalab",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r3-35",
+      "round": 3,
+      "home": "HTEC",
+      "away": "Better Collective",
+      "homeScore": 3,
+      "awayScore": 3,
+      "status": "finished"
+    },
+    {
+      "id": "r3-36",
+      "round": 3,
+      "home": "Code",
+      "away": "Boopro",
+      "homeScore": 4,
+      "awayScore": 7,
+      "status": "finished"
+    },
+    {
+      "id": "r3-37",
+      "round": 3,
+      "home": "Fazi",
+      "away": "Diligent",
+      "homeScore": 6,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": "r4-38",
+      "round": 4,
+      "home": "Diligent",
+      "away": "Better Collective",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": "r4-39",
+      "round": 4,
+      "home": "DMV",
+      "away": "Code",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r4-40",
+      "round": 4,
+      "home": "Fazi",
+      "away": "SkySoft",
+      "homeScore": 2,
+      "awayScore": 8,
+      "status": "finished"
+    },
+    {
+      "id": "r4-41",
+      "round": 4,
+      "home": "OIP Insurtech",
+      "away": "Ascalab",
+      "homeScore": 1,
+      "awayScore": 8,
+      "status": "finished"
+    },
+    {
+      "id": "r4-42",
+      "round": 4,
+      "home": "Dualsoft",
+      "away": "HTEC",
+      "homeScore": 3,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": "r4-43",
+      "round": 4,
+      "home": "Logik",
+      "away": "Boopro",
+      "homeScore": 5,
+      "awayScore": 17,
+      "status": "finished"
+    },
+    {
+      "id": "r5-44",
+      "round": 5,
+      "home": "Ascalab",
+      "away": "Dualsoft",
+      "homeScore": 8,
+      "awayScore": 1,
+      "status": "finished"
+    },
+    {
+      "id": "r5-45",
+      "round": 5,
+      "home": "Code",
+      "away": "SkySoft",
+      "homeScore": 3,
+      "awayScore": 4,
+      "status": "finished"
+    },
+    {
+      "id": "r5-46",
+      "round": 5,
+      "home": "Logik",
+      "away": "Fazi",
+      "homeScore": 2,
+      "awayScore": 5,
+      "status": "finished"
+    },
+    {
+      "id": "r5-47",
+      "round": 5,
+      "home": "HTEC",
+      "away": "Boopro",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r5-48",
+      "round": 5,
+      "home": "OIP Insurtech",
+      "away": "Diligent",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r5-49",
+      "round": 5,
+      "home": "Better Collective",
+      "away": "DMV",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "finished"
+    },
+    {
+      "id": "r6-50",
+      "round": 6,
+      "home": "Dualsoft",
+      "away": "SkySoft",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r6-51",
+      "round": 6,
+      "home": "Diligent",
+      "away": "HTEC",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r6-52",
+      "round": 6,
+      "home": "OIP Insurtech",
+      "away": "Better Collective",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r6-53",
+      "round": 6,
+      "home": "Boopro",
+      "away": "Fazi",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r6-54",
+      "round": 6,
+      "home": "Logik",
+      "away": "DMV",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r6-55",
+      "round": 6,
+      "home": "Ascalab",
+      "away": "Code",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r7-56",
+      "round": 7,
+      "home": "OIP Insurtech",
+      "away": "Logik",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r7-57",
+      "round": 7,
+      "home": "Fazi",
+      "away": "Ascalab",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r7-58",
+      "round": 7,
+      "home": "Diligent",
+      "away": "Code",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r7-59",
+      "round": 7,
+      "home": "DMV",
+      "away": "HTEC",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r7-60",
+      "round": 7,
+      "home": "Boopro",
+      "away": "SkySoft",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r7-61",
+      "round": 7,
+      "home": "Dualsoft",
+      "away": "Better Collective",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r8-62",
+      "round": 8,
+      "home": "HTEC",
+      "away": "Code",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r8-63",
+      "round": 8,
+      "home": "Better Collective",
+      "away": "Boopro",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r8-64",
+      "round": 8,
+      "home": "SkySoft",
+      "away": "Ascalab",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r8-65",
+      "round": 8,
+      "home": "Fazi",
+      "away": "Dualsoft",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r8-66",
+      "round": 8,
+      "home": "DMV",
+      "away": "OIP Insurtech",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r8-67",
+      "round": 8,
+      "home": "Diligent",
+      "away": "Logik",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r9-68",
+      "round": 9,
+      "home": "Boopro",
+      "away": "Diligent",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r9-69",
+      "round": 9,
+      "home": "OIP Insurtech",
+      "away": "Fazi",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r9-70",
+      "round": 9,
+      "home": "Dualsoft",
+      "away": "DMV",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r9-71",
+      "round": 9,
+      "home": "Logik",
+      "away": "Code",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r9-72",
+      "round": 9,
+      "home": "Ascalab",
+      "away": "Better Collective",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r9-73",
+      "round": 9,
+      "home": "SkySoft",
+      "away": "HTEC",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r10-78",
+      "round": 10,
+      "home": "Boopro",
+      "away": "OIP Insurtech",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r10-79",
+      "round": 10,
+      "home": "Code",
+      "away": "Better Collective",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r10-80",
+      "round": 10,
+      "home": "Fazi",
+      "away": "HTEC",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r10-81",
+      "round": 10,
+      "home": "Dualsoft",
+      "away": "Diligent",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r10-82",
+      "round": 10,
+      "home": "SkySoft",
+      "away": "Logik",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r10-83",
+      "round": 10,
+      "home": "DMV",
+      "away": "Ascalab",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r11-84",
+      "round": 11,
+      "home": "Logik",
+      "away": "Dualsoft",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r11-85",
+      "round": 11,
+      "home": "Boopro",
+      "away": "DMV",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r11-86",
+      "round": 11,
+      "home": "Ascalab",
+      "away": "Diligent",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r11-87",
+      "round": 11,
+      "home": "SkySoft",
+      "away": "Better Collective",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r11-88",
+      "round": 11,
+      "home": "Fazi",
+      "away": "Code",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    },
+    {
+      "id": "r11-89",
+      "round": 11,
+      "home": "HTEC",
+      "away": "OIP Insurtech",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled"
+    }
+  ],
+  "rounds": [
+    {
+      "number": 1,
+      "dateLabel": "28.9.2026. - 4.10.2026.",
+      "deadline": "Rok za nadoknadu do 19.10.2026.",
+      "note": ""
+    },
+    {
+      "number": 2,
+      "dateLabel": "5.10.2026. - 11.10.2026.",
+      "deadline": "Rok za nadoknadu do 26.10.2026.",
+      "note": ""
+    },
+    {
+      "number": 3,
+      "dateLabel": "12.10.2026. - 18.10.2026.",
+      "deadline": "Rok za nadoknadu do 2.11.2026.",
+      "note": ""
+    },
+    {
+      "number": 4,
+      "dateLabel": "19.10.2026. - 25.10.2026.",
+      "deadline": "Rok za nadoknadu do 9.11.2026.",
+      "note": ""
+    },
+    {
+      "number": 5,
+      "dateLabel": "26.10.2020. - 1.11.2026.",
+      "deadline": "Rok za nadoknadu do 16.11.2026.",
+      "note": ""
+    },
+    {
+      "number": 6,
+      "dateLabel": "2.11.2026. - 8.11.2026.",
+      "deadline": "Rok za nadoknadu do 23.11.2026.",
+      "note": ""
+    },
+    {
+      "number": 7,
+      "dateLabel": "9.11.2026. - 15.11.2026.",
+      "deadline": "Rok za nadoknadu do 30.11.2026.",
+      "note": "Neradni dan 11.11 - državni praznik Dan primirja u Prvom svetskom ratu"
+    },
+    {
+      "number": 8,
+      "dateLabel": "16.11.2026. - 22.11.2026.",
+      "deadline": "Rok za nadoknadu do 7.12.2026.",
+      "note": ""
+    },
+    {
+      "number": 9,
+      "dateLabel": "23.11.2026. - 29.11.2026.",
+      "deadline": "Rok za nadoknadu do 14.12.2026.",
+      "note": ""
+    },
+    {
+      "number": 10,
+      "dateLabel": "TBD",
+      "deadline": "Rok za nadoknadu do TBD",
+      "note": ""
+    },
+    {
+      "number": 11,
+      "dateLabel": "TBD",
+      "deadline": "Rok za nadoknadu do TBD",
+      "note": ""
+    }
+  ],
+  "scorers": [
+    {
+      "name": "Vladan Stojic",
+      "team": "Boopro",
+      "goals": 13,
+      "rounds": [
+        0,
+        2,
+        2,
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Rodoljub Babic",
+      "team": "Better Collective",
+      "goals": 11,
+      "rounds": [
+        6,
+        1,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Milan Milosevic",
+      "team": "SkySoft",
+      "goals": 8,
+      "rounds": [
+        2,
+        0,
+        4,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Andreja Jovanovic",
+      "team": "Boopro",
+      "goals": 6,
+      "rounds": [
+        0,
+        0,
+        2,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nemanja Pesic",
+      "team": "SkySoft",
+      "goals": 5,
+      "rounds": [
+        1,
+        0,
+        3,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nikola Popovic",
+      "team": "Boopro",
+      "goals": 5,
+      "rounds": [
+        0,
+        0,
+        3,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Stefan Marinkovic",
+      "team": "Fazi",
+      "goals": 5,
+      "rounds": [
+        1,
+        0,
+        3,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Stefan Petrovic",
+      "team": "Fazi",
+      "goals": 5,
+      "rounds": [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Aleksandar Milanov",
+      "team": "SkySoft",
+      "goals": 4,
+      "rounds": [
+        0,
+        0,
+        1,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Djordje Stankovic",
+      "team": "Code",
+      "goals": 4,
+      "rounds": [
+        3,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Filip Novakovic",
+      "team": "SkySoft",
+      "goals": 4,
+      "rounds": [
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Kosta Zupac",
+      "team": "DMV",
+      "goals": 4,
+      "rounds": [
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Kristijan Ristic",
+      "team": "HTEC",
+      "goals": 4,
+      "rounds": [
+        0,
+        3,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Stefan Petkovic",
+      "team": "HTEC",
+      "goals": 4,
+      "rounds": [
+        0,
+        2,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Stefan Sokolovic",
+      "team": "SkySoft",
+      "goals": 4,
+      "rounds": [
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Bojan Ristic",
+      "team": "Boopro",
+      "goals": 3,
+      "rounds": [
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Damjan Jovic",
+      "team": "Dualsoft",
+      "goals": 3,
+      "rounds": [
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Ilija Todorov",
+      "team": "HTEC",
+      "goals": 3,
+      "rounds": [
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mladen Stojanovic",
+      "team": "Better Collective",
+      "goals": 3,
+      "rounds": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nemanja Milovanovic",
+      "team": "Logik",
+      "goals": 3,
+      "rounds": [
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nemanja Nikodijevic",
+      "team": "Fazi",
+      "goals": 3,
+      "rounds": [
+        2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nikola Sretkovic",
+      "team": "Ascalab",
+      "goals": 3,
+      "rounds": [
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Petar Petrovic",
+      "team": "SkySoft",
+      "goals": 3,
+      "rounds": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Predrag Zdravkovic",
+      "team": "Fazi",
+      "goals": 3,
+      "rounds": [
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Aleksandar Jakovljevic",
+      "team": "Ascalab",
+      "goals": 2,
+      "rounds": [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Aleksandar Mladenovic",
+      "team": "Code",
+      "goals": 2,
+      "rounds": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Aleksandar Nikolic",
+      "team": "DMV",
+      "goals": 2,
+      "rounds": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Darko Filipovic",
+      "team": "Code",
+      "goals": 2,
+      "rounds": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Dusan Madic",
+      "team": "Fazi",
+      "goals": 2,
+      "rounds": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Dusan Obradovic",
+      "team": "Diligent",
+      "goals": 2,
+      "rounds": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Dusan Pejic",
+      "team": "Diligent",
+      "goals": 2,
+      "rounds": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Jovica Jovic",
+      "team": "HTEC",
+      "goals": 2,
+      "rounds": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Marko Sljivic",
+      "team": "Better Collective",
+      "goals": 2,
+      "rounds": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Misa Zivanovic",
+      "team": "Ascalab",
+      "goals": 2,
+      "rounds": [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nikola Djordjevic",
+      "team": "Fazi",
+      "goals": 2,
+      "rounds": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nikola Krstic",
+      "team": "OIP Insurtech",
+      "goals": 2,
+      "rounds": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nikola Radisavljevic",
+      "team": "Ascalab",
+      "goals": 2,
+      "rounds": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Stefan Simonovic",
+      "team": "HTEC",
+      "goals": 2,
+      "rounds": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Aleksandar Arsic",
+      "team": "Ascalab",
+      "goals": 1,
+      "rounds": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Aleksandar Jakovljevic",
+      "team": "Ascalab",
+      "goals": 1,
+      "rounds": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Andrija Mitic",
+      "team": "Better Collective",
+      "goals": 1,
+      "rounds": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Boris Boncic",
+      "team": "Boopro",
+      "goals": 1,
+      "rounds": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Bozidar Nikolic",
+      "team": "Code",
+      "goals": 1,
+      "rounds": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Darko Pavlovic",
+      "team": "Diligent",
+      "goals": 1,
+      "rounds": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Dragan Gojkovic",
+      "team": "Diligent",
+      "goals": 1,
+      "rounds": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Luka Jelenkovic",
+      "team": "Better Collective",
+      "goals": 1,
+      "rounds": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Marko Djordjevic",
+      "team": "Dualsoft",
+      "goals": 1,
+      "rounds": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Marko Pesterac",
+      "team": "Code",
+      "goals": 1,
+      "rounds": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Milan Lazarevic",
+      "team": "Fazi",
+      "goals": 1,
+      "rounds": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Milan Stanisavljevic",
+      "team": "Code",
+      "goals": 1,
+      "rounds": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Milan Stojanovic",
+      "team": "Better Collective",
+      "goals": 1,
+      "rounds": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Miljan Petrovic",
+      "team": "Fazi",
+      "goals": 1,
+      "rounds": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Negovan Baljevic",
+      "team": "Fazi",
+      "goals": 1,
+      "rounds": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nemanja Djordjevic",
+      "team": "OIP Insurtech",
+      "goals": 1,
+      "rounds": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nikola Bogdanovic",
+      "team": "Better Collective",
+      "goals": 1,
+      "rounds": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nikola Stolic",
+      "team": "Logik",
+      "goals": 1,
+      "rounds": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Petar Stosic",
+      "team": "Logik",
+      "goals": 1,
+      "rounds": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Predrag Ristic",
+      "team": "Code",
+      "goals": 1,
+      "rounds": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Ranko Bunic",
+      "team": "SkySoft",
+      "goals": 1,
+      "rounds": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Veljko Zupac",
+      "team": "DMV",
+      "goals": 1,
+      "rounds": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Vladimir Bogdanovic",
+      "team": "Code",
+      "goals": 1,
+      "rounds": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Vladimir Puksec",
+      "team": "SkySoft",
+      "goals": 1,
+      "rounds": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Vukan Taskov",
+      "team": "Dualsoft",
+      "goals": 1,
+      "rounds": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "scoring": {
+    "win": 3,
+    "draw": 1,
+    "loss": 0
+  },
+  "sheets": [
+    {
+      "name": "Ligaški deo",
+      "rows": 802
+    },
+    {
+      "name": "Lista strelaca - Ligaški deo",
+      "rows": 65
+    },
+    {
+      "name": "Kontakt podaci ekipa i gde imaj",
+      "rows": 997
+    },
+    {
+      "name": "Kontakt podaci organizatora",
+      "rows": 5
+    },
+    {
+      "name": "Options",
+      "rows": 985
+    }
+  ],
+  "fetchedAt": "2026-10-28T21:49:30.617Z",
+  "sourceUrl": "https://docs.google.com/spreadsheets/d/1Vm22gtDxlSCC-1ssUDSN5yedsiCY9tC-v0aZeDWc_9E/edit"
+}
